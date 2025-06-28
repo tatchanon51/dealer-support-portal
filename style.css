@@ -1,0 +1,158 @@
+body{
+
+  margin: 0;
+
+}
+
+#headerwarp{
+
+  background-color: rgb(66, 142, 201);
+  width: 100%;
+  height: 80px;
+  color: white;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  position: relative;
+  top: -22px; 
+
+}
+
+#header_text{
+
+  width: 800px;
+  position: relative;
+  left: 20px;
+  top: 20px;
+
+}
+
+#logout{
+
+  float: right;
+  position: relative;
+  top: -15px;
+  left: -20px;
+
+}
+
+#upload_box{
+
+  margin: 0px auto;
+  width: 800px;
+  background-color: rgba(175, 175, 175, 0.8);
+  border-radius: 25px;
+  padding: 20px;
+  box-shadow: 0px 0px 15px black;
+
+}
+
+#summary_box{
+
+  margin: 0px auto;
+  width: 1100px;
+  border: 5px solid rgba(175, 175, 175, 0.8);
+  border-radius: 25px;
+  padding: 20px;
+  box-shadow: 0px 0px 15px black;
+
+}
+
+#summary_box_remain_credit{
+
+  margin: 0px auto;
+  width: 500px;
+  border: 5px solid rgba(255, 255, 0, 0.9);
+  border-radius: 25px;
+  padding: 20px;
+  box-shadow: 0px 0px 30px rgb(0, 0, 0);
+
+}
+
+#dealer_name{
+
+  margin-left: 40px;
+  margin-bottom: 0;
+  margin-top: 10px;
+  font-weight: bold;
+  font-size: 40px;
+  position: relative;
+  top: -25px;
+
+}
+
+#dealer_tcst_invoice{
+
+  width: 800px;
+  margin: auto;
+  font-size: 20px;
+
+}
+
+.detailed_saf_table{
+  
+  margin: auto;
+
+}
+
+.used{
+
+  background-color: sandybrown;
+
+}
+
+#sum_active_budget{
+
+  width: 700px;
+  background-color: #428EC9;
+
+}
+
+#expired_saf_table{
+
+  width: 200px;
+  margin: auto;
+
+}
+
+#footer{
+
+  margin-left: 30px;
+
+}
+
+.header_expired_saf{
+
+  background-color: #C0C0C0;
+
+}
+
+.budget{
+
+  text-align: right;
+
+}
+
+#month{
+
+  text-align: center;
+
+}
+
+.month_header{
+
+  background-color: #C0C0C0;
+
+}
+
+.sale_input_header {
+
+  background-color: #00CC99;
+
+}
+
+.invoice_input_header{
+
+  background-color: #00CCCC;
+
+}
